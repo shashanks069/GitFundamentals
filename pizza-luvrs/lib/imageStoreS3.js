@@ -2,7 +2,7 @@ const AWS = require('aws-sdk');
 
 const s3 = new AWS.S3();
 
-module.expoer.save = (name,data,callback) => {
+module.exports.save = (name,data,callback) => {
 	
 	let params = {
 		
