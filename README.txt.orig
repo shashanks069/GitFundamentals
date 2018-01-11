@@ -1,0 +1,9 @@
+Hello ,Git
+Hello ,again
+Adding something new here..
+It is fun to adfdf more stuff....
+<<<<<<< HEAD
+first1
+=======
+feature2 changes 
+>>>>>>> feature2
