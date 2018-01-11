@@ -2,4 +2,7 @@ Hello ,Git
 Hello ,again
 Adding something new here..
 It is fun to adfdf more stuff....
-first1
+<<<<< HEAD
+=======
+feature2 changes 
+>>>>>>> feature2
